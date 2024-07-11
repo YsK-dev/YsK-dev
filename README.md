@@ -58,16 +58,14 @@
   </a>
 </p>
 
-<h3 align="left">Github Stats:</h3>
-<p align="left">
+<h3 align="center">Github Stats:</h3>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YsK-dev&show_icons=true&hide_border=true" alt="YsK-dev's GitHub Stats" />
 </p>
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YsK-dev&hide_border=true" alt="YsK-dev's GitHub Streak" />
 </p>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YsK-dev&layout=compact&hide_border=true" alt="YsK-dev's Top Languages" />
-</p>
+
 
 
 </p>
