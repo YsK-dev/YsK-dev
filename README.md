@@ -15,7 +15,7 @@
 
 <p align="center">🌱 I’m currently learning React, React Native, Machine Learning</p>
 
-<p align="center">📫 How to reach me: <a href="mailto:srtkyyusuf@gmail.com">srtkyyusuf@gmail.com</a></p>
+<p align="center">📫 How to reach me: <a href="mailto:srtkyyusuf@gmail.com">yusufsertkayaysk@gmail.com</a></p>
 
 <p align="center">⚡ Fun fact: I don't trust Words, I trust Actions</p>
 
