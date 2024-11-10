@@ -11,13 +11,14 @@
   </a>
 </p>
 
-<p align="center">🔭 I’m currently working on React, Neural Networks</p>
+<p align="center">🔭 I’m currently working on React, Neural Networks,Big Data,Django</p>
 
-<p align="center">🌱 I’m currently learning React, React Native, Machine Learning</p>
+<p align="center">🌱 I’m currently learning React, React Native, Machine Learning,Data Science</p>
 
 <p align="center">📫 How to reach me: <a href="mailto:srtkyyusuf@gmail.com">yusufsertkayaysk@gmail.com</a></p>
 
-<p align="center">⚡ Fun fact: I don't trust Words, I trust Actions</p>
+<p align="center">⚡ Fun fact: I Use arch btw</p>
+<p align="center"> I don't trust Words, I trust Actions</p>
 
 <h3 align="center">My Website</h3>
 <p align="center">
