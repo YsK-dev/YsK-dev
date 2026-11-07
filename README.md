@@ -1,61 +1,28 @@
-<h1 align="center">Hi 👋, I'm YUSUF SERTKAYA</h1>
+# Yusuf Sertkaya
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2490C5&center=true&vCenter=true&width=435&lines=Computer+Engineering;Machine+Learning+%26+Data+Science;Backend+Development;Robotics+Enthusiast" alt="Typing SVG" />
-  </a>
-</p>
+**AI Engineer · LLM, RAG, fine-tuning**
 
-<p align="center">
-  <a href="https://github.com/YsK-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/YsK-dev?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://www.linkedin.com/in/yusuf-sertkaya-87888a244/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.kaggle.com/yusufsertkayaysk">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://huggingface.co/YsK-dev">
-    <img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face" />
-  </a>
-  <a href="mailto:yusufsertkayaysk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+I build practical AI systems in Python: question answering over documents with retrieval-augmented generation (RAG), multi-agent assistants, and small language models fine-tuned for one job. I also work on Turkish-language NLP.
 
-<br>
+[LinkedIn](https://www.linkedin.com/in/yusuf-sertkaya-87888a244/) · [Hugging Face](https://huggingface.co/YsK-dev) · [Kaggle](https://www.kaggle.com/yusufsertkayaysk) · [Website](https://ysk-dev.github.io) · [Email](mailto:yusufsertkayaysk@gmail.com)
 
-<div align="center">
+## Selected projects
 
-| 🔭 Currently Working On | 🌱 Currently Learning | ⚡ Fun Fact |
+| Project | What it does | Built with |
 | :--- | :--- | :--- |
-| **ML/DL/LLM Projects** | **Advanced AI & Transformers** | "There is always a hill to climb" ⛰️ |
+| [Local RAG Q&A](https://github.com/YsK-dev/Rag-case-study-) | Ask questions about your own documents, fully on your machine. Hybrid search (semantic + BM25), streamed answers with sources, LLM-as-judge evaluation. | FastAPI, Next.js, Ollama, ChromaDB |
+| [Multi-agent assistant](https://github.com/YsK-dev/AgentsCase) | A supervisor routes each question to researcher, analyst and editor agents. Web search, safe code execution and unit tests. | LangGraph, Ollama, SearXNG |
+| [Zima](https://github.com/YsK-dev/zima) | Health-advice assistant for people over 70. Synthetic dataset generation and LoRA fine-tuning of Qwen2.5-1.5B. | Unsloth, Transformers, Gradio |
+| [Finance sentiment](https://github.com/YsK-dev/finance-sentiment-app) | Collects news, RSS feeds and YouTube transcripts about a stock and scores their sentiment with FinBERT. | FastAPI, React, MongoDB |
+| [Datathon 2025](https://github.com/YsK-dev/datahon25) | Predicts the money value of e-commerce sessions from user events. | pandas, CatBoost |
+| [ALS recommender](https://github.com/YsK-dev/Bigdata-ALS-Pyspark) | Movie recommendations with collaborative filtering on Spark. | PySpark |
 
-</div>
+## Models on Hugging Face
 
-<br>
+- [TurkWeb-Edu Classifier](https://huggingface.co/YsK-dev/TurkWeb-Edu-Classifier-V5) scores the educational quality (0–5) of Turkish web text. It is a Turkish counterpart of the FineWeb-Edu classifier.
+- [TurkWeb-Edu Student](https://huggingface.co/YsK-dev/TurkWeb-Edu-Student-Qwen1.5B-SOTA) is a 1.5B Qwen model that writes its reasoning in Turkish before it gives the score.
+- [Zima](https://huggingface.co/YsK-dev/zima-qwen-geriatric-1.5b) and its [training dataset](https://huggingface.co/datasets/YsK-dev/geriatric-health-advice).
 
-<h3 align="center">💻 Tech Stack</h3>
+## Tools I use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,flask,django,mysql,mongo,docker,aws,git,linux" />
-</p>
-
-<br>
-
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YsK-dev&show_icons=true&hide_border=true&count_private=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YsK-dev&layout=compact&hide_border=true&theme=radical" height="150" alt="languages graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YsK-dev&bg_color=141321&color=8be9fd&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="YsK-dev Activity Graph" />
-</p>
-
-<br>
-
-<p align="center">
-</p>
+Python · PyTorch · Hugging Face Transformers · LangChain / LangGraph · Ollama · FastAPI · ChromaDB · scikit-learn · PySpark · Docker · AWS
