@@ -1,10 +1,10 @@
 # Yusuf Sertkaya
 
-**AI Engineer · LLM, RAG, fine-tuning**
+**AI Engineer · LLM, RAG, fine-tuning · Python back end and full-stack**
 
-I build practical AI systems in Python: question answering over documents with retrieval-augmented generation (RAG), multi-agent assistants, and small language models fine-tuned for a single task. I also work on Turkish-language NLP.
+I build practical AI systems in Python, from the model to a tested web application: question answering over documents with retrieval-augmented generation (RAG), multi-agent assistants, and small language models fine-tuned for a single task. I measure what I build against simple baselines. I also work on Turkish-language NLP.
 
-[LinkedIn](https://www.linkedin.com/in/yusuf-sertkaya-87888a244/) · [Hugging Face](https://huggingface.co/YsK-dev) · [Kaggle](https://www.kaggle.com/yusufsertkayaysk) · [Website](https://ysk-dev.github.io) · [Email](mailto:yusufsertkayaysk@gmail.com)
+[Website](https://ysk-dev.github.io) · [LinkedIn](https://www.linkedin.com/in/yusuf-sertkaya-87888a244/) · [Hugging Face](https://huggingface.co/YsK-dev) · [Kaggle](https://www.kaggle.com/yusufsertkayaysk) · [Email](mailto:yusufsertkayaysk@gmail.com)
 
 ## Selected projects
 
@@ -13,7 +13,7 @@ I build practical AI systems in Python: question answering over documents with r
 | [Local RAG Q&A](https://github.com/YsK-dev/Rag-case-study-) | Ask questions about your own documents, fully on your machine. Hybrid search (semantic + BM25) and streamed answers with sources, evaluated with an LLM judge. | FastAPI, Ollama, ChromaDB |
 | [Multi-agent assistant](https://github.com/YsK-dev/AgentsCase) | A supervisor agent sends each question to the agents it needs: researcher, analyst, editor. Web search, restricted Python execution and unit tests. | LangGraph, Ollama, SearXNG |
 | [Zima](https://github.com/YsK-dev/zima) | Health-advice assistant for people over 70. Synthetic dataset generation and LoRA fine-tuning of Qwen2.5-1.5B. | Unsloth, Transformers, Gradio |
-| [Finance sentiment](https://github.com/YsK-dev/finance-sentiment-app) | Collects news, RSS feeds and YouTube transcripts about a stock and scores their sentiment with FinBERT. | FastAPI, React, MongoDB |
+| [Finance sentiment](https://github.com/YsK-dev/finance-sentiment-app) | Labels a stock's news headlines with FinBERT, and measures it: on 2,388 labelled headlines FinBERT reaches macro F1 0.668, a simple model trained on the same kind of text 0.761. Tests, CI, one Docker image. | FastAPI, React, Docker |
 | [Datathon 2025](https://github.com/YsK-dev/datahon25) | Predicts how much each e-commerce session is worth from user events. | pandas, CatBoost |
 | [ALS recommender](https://github.com/YsK-dev/Bigdata-ALS-Pyspark) | Movie recommendations with collaborative filtering on Spark. | PySpark |
 
@@ -25,4 +25,4 @@ I build practical AI systems in Python: question answering over documents with r
 
 ## Tools I use
 
-Python · PyTorch · Hugging Face Transformers · LangChain / LangGraph · Ollama · FastAPI · ChromaDB · scikit-learn · PySpark · Docker · AWS
+Python · PyTorch · Hugging Face Transformers · LangChain / LangGraph · Ollama · FastAPI · React · ChromaDB · scikit-learn · PySpark · Docker · GitHub Actions · AWS
