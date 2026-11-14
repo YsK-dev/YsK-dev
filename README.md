@@ -10,8 +10,8 @@ I build practical AI systems in Python, from the model to a tested web applicati
 
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
-| [Local RAG Q&A](https://github.com/YsK-dev/Rag-case-study-) | Ask questions about your own documents, fully on your machine. Hybrid search (semantic + BM25) and streamed answers with sources, evaluated with an LLM judge. | FastAPI, Ollama, ChromaDB |
-| [Multi-agent assistant](https://github.com/YsK-dev/AgentsCase) | A supervisor agent sends each question to the agents it needs: researcher, analyst, editor. Web search, restricted Python execution and unit tests. | LangGraph, Ollama, SearXNG |
+| [Local RAG Q&A](https://github.com/YsK-dev/Rag-case-study-) | Ask questions about your own documents, fully on your machine. Hybrid search (semantic + BM25) with a reranker, streamed answers with sources. Search measured on the SciFact benchmark: a right passage in the top 3 for 72% of 300 questions; the measurement also found and fixed a keyword-search bug. | FastAPI, Ollama, ChromaDB |
+| [Multi-agent assistant](https://github.com/YsK-dev/AgentsCase) | A supervisor agent sends each question to the agents it needs: researcher, analyst, editor. Web search, restricted Python execution, 78 unit tests. | LangGraph, Ollama, SearXNG |
 | [Zima](https://github.com/YsK-dev/zima) | Health-advice assistant for people over 70. Synthetic dataset generation and LoRA fine-tuning of Qwen2.5-1.5B. | Unsloth, Transformers, Gradio |
 | [Finance sentiment](https://github.com/YsK-dev/finance-sentiment-app) | Labels a stock's news headlines with FinBERT, and measures it: on 2,388 labelled headlines FinBERT reaches macro F1 0.668, a simple model trained on the same kind of text 0.761. Tests, CI, one Docker image. | FastAPI, React, Docker |
 | [Datathon 2025](https://github.com/YsK-dev/datahon25) | Predicts how much each e-commerce session is worth from user events. | pandas, CatBoost |
